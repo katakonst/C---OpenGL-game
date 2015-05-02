@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1403173308 source:d:\programare\opengl\met\tetris\main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	<math.h>
+	"bricks.hpp"
+
+1403173293 d:\programare\opengl\met\tetris\bricks.hpp
+
+1403174154 source:d:\programare\opengl\met\bricks\main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<iostream>
+	<math.h>
+	"bricks.hpp"
+
+1403210867 d:\programare\opengl\met\bricks\bricks.hpp
+
